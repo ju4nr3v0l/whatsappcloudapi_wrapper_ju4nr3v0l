@@ -1,47 +1,19 @@
 {
-    "name": "whatsappcloudapi_wrapper_jadamavecool",
-    "version": "1.0",
-    "description": "Fork crated to fix the issues in the package. This is an unofficial wrapper for the Whatsapp Cloud API.",
-    "main": "index.js",
-    "author": "Daggie Blanqx and @ju4nr3v0l",
-    "license": "MIT",
-    "scripts": {
-        "prettier": "prettier --ignore-path .prettierignore --config prettier.config.js --write .",
-        "quickpush": "cls && git status && git add * && git commit * -m \"Updated Code\" && git push",
-        "npmpublish": "npm run prettier && np"
-    },
-    "dependencies": {
-        "signale": "^1.4.0",
-        "unirest": "^0.6.0"
-    },
-    "keywords": [
-        "whatsapp",
-        "chatbot",
-        "bot-framework",
-        "cloud-api",
-        "whatsapp-cloud-api",
-        "whatsapp-api",
-        "business-api",
-        "cloud",
-        "api",
-        "whatsapp-cloud",
-        "whatsapp-bot",
-        "bot",
-        "whatsapp-business",
-        "whatsapp-business-api",
-        "meta",
-        "graph api",
-        "unofficial"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l"
-    },
-    "bugs": {
-        "url": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l/issues"
-    },
-    "homepage": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l#readme",
-    "engines": {
-        "node": ">=10"
-    }
+  "name": "@jadamavecool/whatsappcloudapi_wrapper_ju4nr3v0l",
+  "version": "1.0.0",
+  "description": "<img src=\"https://img.shields.io/npm/v/whatsappcloudapi_wrapper\"\r     alt=\"Whatsapp Cloud API\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l/issues"
+  },
+  "homepage": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l#readme"
 }
