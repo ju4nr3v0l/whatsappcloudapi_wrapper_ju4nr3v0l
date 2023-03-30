@@ -1,9 +1,9 @@
 {
-    "name": "whatsappcloudapi_wrapper",
-    "version": "1.0.13",
-    "description": "Tired of doing things wrong? This package provides you with an easy way to get started and start building on the Whatsapp Cloud API. This is an unofficial wrapper for the Whatsapp Cloud API.",
+    "name": "whatsappcloudapi_wrapper_ju4nr3v0l",
+    "version": "1.0",
+    "description": "Fork crated to fix the issues in the package. This is an unofficial wrapper for the Whatsapp Cloud API.",
     "main": "index.js",
-    "author": "Daggie Blanqx",
+    "author": "Daggie Blanqx and @ju4nr3v0l",
     "license": "MIT",
     "scripts": {
         "prettier": "prettier --ignore-path .prettierignore --config prettier.config.js --write .",
@@ -35,12 +35,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/daggieblanqx/whatsappcloudapi_wrapper.git"
+        "url": "git+https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l"
     },
     "bugs": {
-        "url": "https://github.com/daggieblanqx/whatsappcloudapi_wrapper/issues"
+        "url": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l/issues"
     },
-    "homepage": "https://github.com/daggieblanqx/whatsappcloudapi_wrapper#readme",
+    "homepage": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l#readme",
     "engines": {
         "node": ">=10"
     }
