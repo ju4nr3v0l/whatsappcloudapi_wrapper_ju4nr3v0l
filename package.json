@@ -1,6 +1,6 @@
 {
   "name": "@jadamavecool/whatsappcloudapi_wrapper_ju4nr3v0l",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "<img src=\"https://img.shields.io/npm/v/whatsappcloudapi_wrapper\"\r     alt=\"Whatsapp Cloud API\"/>",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l/issues"
   },
-  "homepage": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l#readme"
+  "homepage": "https://github.com/ju4nr3v0l/whatsappcloudapi_wrapper_ju4nr3v0l#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "signale": "^1.4.0",
+    "unirest": "^0.6.0"
+  }
 }
